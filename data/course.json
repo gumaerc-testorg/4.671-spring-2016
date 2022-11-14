@@ -2,7 +2,8 @@
   "term": "Spring",
   "year": "2016",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -55,6 +56,7 @@
     "Written Assignments",
     "Presentation Assignments"
   ],
-  "site_uid": "aa41cb5a-26d1-4e4b-a171-ed146135c8b6",
+  "site_uid": "e012e7b2-a192-48b7-af82-3417cfac6845",
+  "short_id": "4.671-spring-2016",
   "title": "Course Metadata"
 }
