@@ -14,7 +14,7 @@ Appiah, Kwame A. _Cosmopolitanism: Ethics in a World of Strangers._ W. W. Norton
 
 Belting, Hans, and Andrea Buddensieg, eds. _The Global Art World: Audiences, Markets, and Museums_. Hatje Cantz, 2009. ISBN: 9783775724074.
 
-Billig, Michael. _Banal Nationalism_. Sage Publications Limited, 1995. ISBN: 9780803975255. \[Preview with [Google Books](http://books.google.com/books?id=CPgPd5e6_hsC&pg=PAfrontcover)\]
+Billig, Michael. _Banal Nationalism_. Sage Publications Limited, 1995. ISBN: 9780803975255. \[Preview with {{% resource_link "c513483c-2b09-47cc-9ae0-72d5306f7cb3" "Google Books" %}}\]
 
 Binsbergen, Wim M. J. van, and Rijk van Dijk, eds. "An Introduction." In _Situating Globality: African Agency in the Appropriation of Global Culture_. Brill, 2004, pp. 3–54. ISBN: 9789004131330. (African Dynamics 3)
 
@@ -36,7 +36,7 @@ Harvey, David. _Paris, Capital of Modernity_. Routledge, 2005. ISBN: 97804159522
 
 Inda, Jonathan Xavier, and Renato Rosaldo, eds. _The Anthropology of Globalization: A Reader_. Wiley-Blackwell, 2002. ISBN: 9780631222330.
 
-Jones, Caroline A. "Nationalism and Internationalism in Modern Art." _The History of Humanity_. Routledge, 2008. ISBN: 9789231040832. \[Preview with [Google Books](http://books.google.com/books?id=DtnHLh9HgqAC&pg=PA408=onepage)\]
+Jones, Caroline A. "Nationalism and Internationalism in Modern Art." _The History of Humanity_. Routledge, 2008. ISBN: 9789231040832. \[Preview with {{% resource_link "7cf08aef-a6f6-44ba-8380-9a00000fd7e3" "Google Books" %}}\]
 
 ———. "Globalism / Globalization." In _Art and Globalization_. Edited by James Elkins, Alice S. Kim, and Zhivka Valiavicharska. Penn State University Press, 2011. ISBN: 9780271037172.
 
@@ -50,12 +50,12 @@ Koundoura, Maria. _The Greek Idea: The Formation of National and Transnational I
 
 ———. _Transnational Culture, Transnational Identity: The Politics and Ethics of Global Culture Exchange_. I. B. Tauris, 2012. ISBN: 9781848857636.
 
-Mitchell, W. J. T. "[World Pictures: Globalization and Visual Culture](http://dx.doi.org/10.1007/s11059-007-2005-7)." _Neohelicon_ 34, no. 2 (2007): 49–59. (Revised version).
+Mitchell, W. J. T. "{{% resource_link "1eb37bee-243a-4387-b5be-fe38d9424b3f" "World Pictures: Globalization and Visual Culture" %}}." _Neohelicon_ 34, no. 2 (2007): 49–59. (Revised version).
 
-Nancy, Jean-Luc. _The Creation of the World or Globalization._ State University New York Press, 2007. ISBN: 9780791470251. \[Preview with [Google Books](http://books.google.com/books?id=xDCo_WeLBfwC&pg=PAfrontcover)\]
+Nancy, Jean-Luc. _The Creation of the World or Globalization._ State University New York Press, 2007. ISBN: 9780791470251. \[Preview with {{% resource_link "cda25193-b15d-4a79-8425-cba0324b61d1" "Google Books" %}}\]
 
 Hlavajova, Maria, Thierry de Duve, Chantal Mouffe, eds. _Open 16: The Art Biennial as a Global Phenomenon_. nai010 publishers, 2009. ISBN: 9789056626679. (SKOR {Stichting Kunst Openbare Ruimte}, in conjunction with Brussels Biennial).
 
-Smith, Anthony D. _Ethno-Symbolism and Nationalism: A Cultural Approach_. Routledge, 2009. ISBN: 9780415497985. \[Preview with [Google Books](http://books.google.com/books?id=BICTAgAAQBAJ&pg=PAfrontcover)\]
+Smith, Anthony D. _Ethno-Symbolism and Nationalism: A Cultural Approach_. Routledge, 2009. ISBN: 9780415497985. \[Preview with {{% resource_link "9381c021-e502-4136-99ce-b7fb12371be1" "Google Books" %}}\]
 
-Yoshimoto, Midori, ed. "[Expo '70 and Japanese Art: Dissonant An Introduction and Commentary](http://www.academia.edu/2037690/Expo_70_and_Japanese_Art_Dissonant_Voices_An_Introduction_and_Commentary)." _Review of Japanese Culture and Society_ (2011). (Josai International Center for the Promotion of Art and Science, Josai University).
+Yoshimoto, Midori, ed. "{{% resource_link "d77e3043-6484-4209-8404-a6a6993d81e8" "Expo '70 and Japanese Art: Dissonant An Introduction and Commentary" %}}." _Review of Japanese Culture and Society_ (2011). (Josai International Center for the Promotion of Art and Science, Josai University).
